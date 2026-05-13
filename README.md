@@ -10,12 +10,15 @@ _splitting work into smaller parts to motivate people to see their progress on t
 # about
 Breadcrumber is an app that helps creatives stay motivated by turning overwhelming passion projects into manageable steps through "breadcrumbing". Designed for artists, developers, students, and people who struggle with burnout, focus, or ADHD, the app combines productivity with encouragement through streaks, visual roadmaps, timers, and AI-generated workflows tailored to each project.
 
+# live demo
+🌐 **[breadcrumber-app.vercel.app](https://breadcrumber-app.vercel.app/)**
+
 # features
-- 🍞 tab-based project manager
-- 🥐 AI-based task atomizer with file uploading prompt system
-- 🥖 daily streak and notification system
-- 🫓 focus & break timer (pomodoro)
-- 🥯 proof-based to-do list by file upload system
+- 🍞 tab-based project manager.
+- 🥐 AI-based task atomizer with file uploading prompt system.
+- 🥖 daily streak and notification system.
+- 🫓 focus & break timer (pomodoro).
+- 🥯 proof-based to-do list by file upload system.
 
 # running the app
 
