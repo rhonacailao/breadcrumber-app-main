@@ -23,6 +23,8 @@ Breadcrumber is an app that helps creatives stay motivated by turning overwhelmi
 ## To fix:
 - refactor the code
 - clean the UI to be more functional
+- change local storage to online storage
+- log-in and sign up
 - madami daw kaming need na ayusin diyan sabi ni rhona
 
 # running the app
