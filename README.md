@@ -26,6 +26,7 @@ Breadcrumber is an app that helps creatives stay motivated by turning overwhelmi
 - change local storage to online storage
 - log-in and sign up
 - github-like contribution graph
+- community based social media 
 
 # running the app
 
