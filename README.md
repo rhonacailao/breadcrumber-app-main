@@ -20,6 +20,11 @@ Breadcrumber is an app that helps creatives stay motivated by turning overwhelmi
 - 🫓 focus & break timer (pomodoro).
 - 🥯 proof-based to-do list by file upload system.
 
+## To fix:
+- refactor the code
+- clean the UI to be more functional
+- madami daw kaming need na ayusin diyan sabi ni rhona
+
 # running the app
 
 ### first time setup
