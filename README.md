@@ -17,7 +17,7 @@ Breadcrumber is an app that helps creatives stay motivated by turning overwhelmi
 - 🍞 tab-based project manager.
 - 🥐 AI-based task atomizer with file uploading prompt system.
 - 🥖 daily streak and notification system.
-- 🫓 focus & break timer (pomodoro).
+- 🥨 focus & break timer (pomodoro).
 - 🥯 proof-based to-do list by file upload system.
 
 ## To fix and add:
